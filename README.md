@@ -41,7 +41,7 @@ Build a Stopwatch component that:
 - When the user first visits the page, the only button that should be active is "Start"
   - The other buttons should be unlocked only after the user clicks "start"
 
-### Shopping Cart
+### [Shopping Cart](https://github.com/ga-wdi-exercises/react-shopping-cart)
 
 Build a Shopping Cart component that:
 
@@ -50,6 +50,8 @@ Build a Shopping Cart component that:
 - Displays each item in the cart, as well as the calculated **total** of all items cost
 - Allows the user to update the quantity of each item in the cart
 - Allows the user to remove an item from the cart
+- Allows the user to wrap an item as a gift for an incurred cost
+- Calculates the sales tax and adds it to the subtotal of the items to be purchased
 
 **Bonus**:
 
@@ -63,6 +65,7 @@ Build a Shopping Cart component that:
   - Sketch a quick wireframe of what your component will look like
   - Make a mental list of all necessary data attributes to be tracked by your component
   - Think of the types of user actions and how each action changes the component
+- [Forms in React](https://facebook.github.io/react/docs/forms.html#controlled-components)
 - [Components and Props](https://facebook.github.io/react/docs/components-and-props.html)
 - [Adding State to a Component](https://facebook.github.io/react/docs/state-and-lifecycle.html#adding-local-state-to-a-class)
 - [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
