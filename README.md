@@ -1,0 +1,2 @@
+# component-extravaganza
+[react]
