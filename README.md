@@ -4,7 +4,7 @@ Let's build some components to put those newly formed React skills to the test!
 
 ## Submission
 
-Submit an **issue on this repo** by **9:00AM Tuesday** with links to your forked repos of each exercise you completed.
+Submit an **issue on this repo** by **5:00PM Wednesday** with links to your forked repos of each exercise you completed.
 
 Also in the submission, please include your overall *comfort* and *completion* as well as any questions or specific areas designated for feedback.
 
