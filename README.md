@@ -4,13 +4,9 @@ Let's build some components to put those newly formed React skills to the test!
 
 ## Submission
 
-Submit an **issue on this repo** by **5:00PM Wednesday** with links to your forked repos of each exercise you completed.
-
-Also in the submission, please include your overall *comfort* and *completion* as well as any questions or specific areas designated for feedback.
+This lab is a hybrid HW and lab. You must complete all 3 of these exercises by next week. Doing the exercises in order will is strongly recommended. Fork and clone each repository. Also in the submission, please include your overall *comfort* and *completion* as well as any questions or specific areas designated for feedback.
 
 ## Components
-
-Choose one or more exercises from the list below, and implement the outlined features using React.
 
 ### [Password Validator](https://github.com/ga-wdi-exercises/react-password-validator)
 
@@ -42,6 +38,9 @@ Build a Stopwatch component that:
   - The other buttons should be unlocked only after the user clicks "start"
 
 ### [Shopping Cart](https://github.com/ga-wdi-exercises/react-shopping-cart)
+
+> *Deployed App: http://shopping-cart-react.surge.sh/*
+
 
 Build a Shopping Cart component that:
 
