@@ -8,7 +8,7 @@ This lab is a hybrid HW and lab. You must complete all 3 of these exercises by n
 
 ## Components
 
-### [Password Validator](https://github.com/ga-wdi-exercises/react-password-validator)
+### [Password Validator](https://git.generalassemb.ly/ga-wdi-exercises/react-password-validator)
 
 Build a Sign Up Form component that:
 
@@ -21,7 +21,7 @@ Build a Sign Up Form component that:
   - When the passwords do not match, the inputs display should be changed
   - Add basic validation on a user's email (i.e. every email must contain an `@` sign...)
 
-### [Stopwatch](https://github.com/ga-wdi-exercises/react-stopwatch)
+### [Stopwatch](https://git.generalassemb.ly/ga-wdi-exercises/react-stopwatch)
 
 Build a Stopwatch component that:
 
@@ -37,7 +37,7 @@ Build a Stopwatch component that:
 - When the user first visits the page, the only button that should be active is "Start"
   - The other buttons should be unlocked only after the user clicks "start"
 
-### [Shopping Cart](https://github.com/ga-wdi-exercises/react-shopping-cart)
+### [Shopping Cart](https://git.generalassemb.ly/ga-wdi-exercises/react-shopping-cart)
 
 > *Deployed App: http://shopping-cart-react.surge.sh/*
 
