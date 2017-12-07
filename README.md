@@ -9,6 +9,7 @@ This lab is a hybrid HW and lab. You must complete all 3 of these exercises by n
 ## Components
 
 ### [Password Validator](https://git.generalassemb.ly/ga-wdi-exercises/react-password-validator)
+> *Deployed App: http://excellent-tail.surge.sh/*
 
 Build a Sign Up Form component that:
 
@@ -16,12 +17,8 @@ Build a Sign Up Form component that:
   - When the user submits the form:
     - Notify the user of whether or not their submission was valid
 
-**Bonus**:
-
-  - When the passwords do not match, the inputs display should be changed
-  - Add basic validation on a user's email (i.e. every email must contain an `@` sign...)
-
 ### [Stopwatch](https://git.generalassemb.ly/ga-wdi-exercises/react-stopwatch)
+> *Deployed App: http://scary-religion.surge.sh/*
 
 Build a Stopwatch component that:
 
@@ -31,14 +28,7 @@ Build a Stopwatch component that:
   - Re-clicking the "Pause" button should resume the stopwatch
 - Allows the user to press a button "Reset" to stop the stopwatch and reset the time to `0`
 
-**Bonus**:
-
-- When the stopwatch is at `0`, the display time should be a different style
-- When the user first visits the page, the only button that should be active is "Start"
-  - The other buttons should be unlocked only after the user clicks "start"
-
 ### [Shopping Cart](https://git.generalassemb.ly/ga-wdi-exercises/react-shopping-cart)
-
 > *Deployed App: http://shopping-cart-react.surge.sh/*
 
 
@@ -52,11 +42,6 @@ Build a Shopping Cart component that:
 - Allows the user to wrap an item as a gift for an incurred cost
 - Calculates the sales tax and adds it to the subtotal of the items to be purchased
 
-**Bonus**:
-
-- Allows the user to enter a unique **promo** that applies a pre-designated discount off the total of the cart
-  - Your cart should be initialized with a list of predetermined promo codes, and only valid inputed codes receive the discount
-  - No promo can be used more than once
 
 ## Tips / Resources
 
