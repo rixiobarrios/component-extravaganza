@@ -28,7 +28,7 @@ Build a Stopwatch component that:
   - Re-clicking the "Pause" button should resume the stopwatch
 - Allows the user to press a button "Reset" to stop the stopwatch and reset the time to `0`
 
-### [Shopping Cart](https://git.generalassemb.ly/dci-wdi-react-redux/react-shopping-cart)
+### [Shopping Cart](https://git.generalassemb.ly/dc-wdi-react-redux/react-shopping-cart)
 > Deployed App: http://shopping-cart-react.surge.sh/
 
 
