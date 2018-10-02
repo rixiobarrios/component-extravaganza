@@ -28,19 +28,14 @@ Build a Stopwatch component that:
   - Re-clicking the "Pause" button should resume the stopwatch
 - Allows the user to press a button "Reset" to stop the stopwatch and reset the time to `0`
 
-### [Shopping Cart](https://git.generalassemb.ly/dc-wdi-react-redux/react-shopping-cart)
-> Deployed App: http://shopping-cart-react.surge.sh/
+### [Korilla Receipts](https://git.generalassemb.ly/dc-wdi-react-redux/korilla-receipts)
 
+Walk through building an interactive receipt manager.
 
-Build a Shopping Cart component that:
-
-- Allows the user to add a new **item** to the cart
-  - Each item has a **name**, **cost** and **quantity**
-- Displays each item in the cart, as well as the calculated **total** of all items cost
-- Allows the user to update the quantity of each item in the cart
-- Allows the user to remove an item from the cart
-- Allows the user to wrap an item as a gift for an incurred cost
-- Calculates the sales tax and adds it to the subtotal of the items to be purchased
+- Start by building individual components and hard-coding the state values
+- Convert the state to an array
+- Render only the components that are paid
+- Build a search form that live-updates the visible receipts
 
 
 ## Tips / Resources
