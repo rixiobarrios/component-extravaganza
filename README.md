@@ -4,7 +4,7 @@ Let's build some components to put those newly formed React skills to the test!
 
 ## Submission
 
-This lab is a hybrid HW and lab. You must complete all 3 of these exercises by next week. Doing the exercises in order will is strongly recommended. Fork and clone each repository. Also in the submission, please include your overall *comfort* and *completion* as well as any questions or specific areas designated for feedback.
+This is a hybrid HW and lab. The first two assignments are to be done during lab blocks. The korilla assignment is a 2-night homework. Doing the exercises in order is strongly recommended. Fork and clone each repository. Also in the submission, please include your overall *comfort* and *completion* as well as any questions or specific areas designated for feedback.
 
 ## Components
 
