@@ -10,7 +10,9 @@ This is a hybrid HW and lab. The first two assignments are to be done during lab
 
 ### [Password Validator](https://git.generalassemb.ly/dc-wdi-react-redux/react-password-validator)
 > Deployed App: http://excellent-tail.surge.sh/
+
 > Read This First: https://reactjs.org/docs/forms.html
+
 Build a Sign Up Form component that:
 
   - Prompts the user to enter their **email**, **password** and **password confirmation**
