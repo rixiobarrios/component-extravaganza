@@ -8,7 +8,7 @@ This is a hybrid HW and lab. The first two assignments are to be done during lab
 
 ## Components
 
-### [Password Validator](https://git.generalassemb.ly/seir-826/react-password-validator)
+### [Password Validator](https://git.generalassemb.ly/seir-826/password-validator)
 > Deployed App: http://excellent-tail.surge.sh/
 
 > Read This First: https://reactjs.org/docs/forms.html
