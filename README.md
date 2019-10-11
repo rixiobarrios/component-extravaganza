@@ -8,7 +8,7 @@ This is a hybrid HW and lab. The first two assignments are to be done during lab
 
 ## Components
 
-### [Password Validator](https://git.generalassemb.ly/dc-wdi-react-redux/react-password-validator)
+### [Password Validator](https://git.generalassemb.ly/seir-826/react-password-validator)
 > Deployed App: http://excellent-tail.surge.sh/
 
 > Read This First: https://reactjs.org/docs/forms.html
@@ -19,7 +19,7 @@ Build a Sign Up Form component that:
   - When the user submits the form:
     - Notify the user of whether or not their submission was valid
 
-### [Stopwatch](https://git.generalassemb.ly/dc-wdi-react-redux/react-stopwatch)
+### [Stopwatch](https://git.generalassemb.ly/seir-826/react-stopwatch)
 > Deployed App: http://scary-religion.surge.sh/
 
 Build a Stopwatch component that:
@@ -30,7 +30,7 @@ Build a Stopwatch component that:
   - Re-clicking the "Pause" button should resume the stopwatch
 - Allows the user to press a button "Reset" to stop the stopwatch and reset the time to `0`
 
-### [Korilla Receipts](https://git.generalassemb.ly/dc-wdi-react-redux/korilla-receipts)
+### [Korilla Receipts](https://git.generalassemb.ly/seir-826/korilla-receipts)
 
 Walk through building an interactive receipt manager.
 
