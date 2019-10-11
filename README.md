@@ -19,7 +19,7 @@ Build a Sign Up Form component that:
   - When the user submits the form:
     - Notify the user of whether or not their submission was valid
 
-### [Stopwatch](https://git.generalassemb.ly/seir-826/react-stopwatch)
+### [Stopwatch](https://git.generalassemb.ly/seir-826/stopwatch)
 > Deployed App: http://scary-religion.surge.sh/
 
 Build a Stopwatch component that:
@@ -30,7 +30,7 @@ Build a Stopwatch component that:
   - Re-clicking the "Pause" button should resume the stopwatch
 - Allows the user to press a button "Reset" to stop the stopwatch and reset the time to `0`
 
-### [Korilla Receipts](https://git.generalassemb.ly/seir-826/korilla-receipts)
+### [Korilla Receipts](https://git.generalassemb.ly/seir-826/korilla)
 
 Walk through building an interactive receipt manager.
 
