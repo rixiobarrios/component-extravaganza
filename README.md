@@ -50,3 +50,7 @@ Walk through building an interactive receipt manager.
 - [Components and Props](https://facebook.github.io/react/docs/components-and-props.html)
 - [Adding State to a Component](https://facebook.github.io/react/docs/state-and-lifecycle.html#adding-local-state-to-a-class)
 - [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
+
+## Bonus / Hungry for More? 
+
+- Try out the [static dashboard assignment](https://git.generalassemb.ly/seir-129/static-dashboard)
